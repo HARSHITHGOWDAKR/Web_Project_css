@@ -12,3 +12,6 @@ This is a responsive and elegant Pricing Page built using [Bootstrap 5.3.7](http
 
 📂 Project Structure
 
+pricing-page/
+├── index.html
+├── README.md
