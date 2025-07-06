@@ -5,9 +5,9 @@ This collection showcases my **frontend development skills** through a variety o
 
 ---
 
- 🚀 Projects Included
+## 🚀 Projects Included
 
-🎵 1. Spotify Clone
+### 🎵 1. Spotify Clone
 A full-page responsive clone of Spotify’s landing interface.
 
 **🔧 Tech Stack**:  
@@ -25,7 +25,7 @@ A full-page responsive clone of Spotify’s landing interface.
 
 
 
- 💳 2. Pricing Page (Bootstrap)
+### 💳 2. Pricing Page (Bootstrap)
 Responsive pricing section with 3 tiers: **Free**, **Pro**, and **Enterprise**.
 
 **🔧 Tech Stack**:  
@@ -41,7 +41,7 @@ Responsive pricing section with 3 tiers: **Free**, **Pro**, and **Enterprise**.
 
 
 
-🌿 3. Nature Photo Gallery
+### 🌿 3. Nature Photo Gallery
 A small project showcasing a **glassmorphic nature gallery**.
 
 **📸 Features**:
